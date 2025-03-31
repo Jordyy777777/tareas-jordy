@@ -1,0 +1,35 @@
+
+comment code
+*{
+  margin: 1%;
+  box-sizing: border-box;
+  padding:1% ;
+}
+
+.main {
+    background-color: beige;
+    border: 2px solid black ;
+    width: 100%;
+}
+.container {
+    background-color: darkgoldenrod;
+    padding: 30;
+    border: 2px solid black ;
+    display: flex;
+    flex-direction: column-reverse;
+   
+    justify-content: center;
+}
+
+.box{
+    border: 2px solid black;
+    margin: 10px;
+    font-size: 20px ;
+}
+
+input {
+    background-color: darkgoldenrod;
+    padding: 30;
+    border: 0px solid black;
+    font-size: 20px;
+}   	

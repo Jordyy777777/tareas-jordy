@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 5;
+}
+
+main{
+    background-color: aqua;
+    border: 4px solid rgb(116, 55, 230);
+    width: 100%;
+}

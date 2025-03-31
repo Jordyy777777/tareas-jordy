@@ -1,0 +1,13 @@
+.container{
+    background-color: pink;
+    padding: 30px;
+    border: 5px rgb(17, 17, 16);
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box{
+    border: 2px sandybrown;
+    margin: 10px;
+    font-size: 10px;
+}

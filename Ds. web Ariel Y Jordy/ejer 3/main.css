@@ -1,0 +1,14 @@
+.card{
+    border: 10px solid purple;
+    background-color: blue;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+    padding: 25px 30px;
+    border-radius: 12px;
+}
+
+.card:hover{
+    background-color: aqua;
+}

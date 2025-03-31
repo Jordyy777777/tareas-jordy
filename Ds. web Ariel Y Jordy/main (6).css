@@ -1,0 +1,40 @@
+.main {
+    background-color: antiquewhite;
+    border: 2px solid black ;
+    width: 100%;
+}
+.container {
+margin: 1px;
+margin-top: 1px;
+margin-right: 400px;
+margin-left: 200px; 
+    padding-right: 1px;
+    padding-left: 70px;
+    border: 2px solid white ;
+    border-bottom:   2px solid black;
+    display: flex;
+    background-color: black;
+
+}
+
+h1{
+    color: aliceblue;
+    font-family: 'Arial', sans-serif;  
+    font-size: 16px;  
+    line-height: 1.5;
+    border: blanchedalmond;
+}
+
+h2{
+    border: wheat;
+}
+
+html {
+background-color: cornflowerblue;
+
+}
+
+
+
+
+

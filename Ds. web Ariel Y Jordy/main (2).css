@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Monsieur+La+Doulaise&display=swap');
+
+comment code
+*{
+  margin: 0;
+  box-sizing: border-box;
+  padding:0 ;
+}
+
+comment code
+.main {
+ background-color: crimson;
+ padding: 5px;
+ border: px;
+ width: 100%; 
+}
+
+
+
+main1 {
+  background-color: crimson; 
+  color:black;
+  padding: 20px;
+}
+main2 {
+  background-color: crimson; 
+  color:black;
+  padding: 20px;
+}
+
+main3 {
+  background-color: crimson; 
+  color:black;
+  padding: 20px;
+}
+
+main4{
+  background-color: crimson; 
+  color:black;
+  padding: 20px;
+}
+
+main5 {
+  background-color: crimson; 
+  color:black;
+  padding: 20px;
+}
+
+main6 {
+  background-color: crimson; 
+  color:black;
+  padding: 20px;
+}
+
+main7 {
+  background-color: crimson; 
+  color:black;
+  padding: 20px;
+}
+
+main8 {
+  background-color: crimson; 
+  color:black;
+  padding: 20px;
+}
+
+main9 {
+  background-color: crimson; 
+  color:black;
+  padding: 20px;
+}
+
+table {
+  width: 100%;
+  margin: 20px ;
+ 
+}
+
+th, td {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid 
+}
+
+th {
+  background-color: crimson;
+  color: white;
+}
+
+ul {
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  color: crimson;
+  font-size: 1.5 em ; 
+}
+
+
+body {
+font-size: 20;  
+}

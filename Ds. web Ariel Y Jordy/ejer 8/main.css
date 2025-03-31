@@ -1,0 +1,24 @@
+/*para desktop el minimo debe ser 1024px*/
+@media screen and(min-width:769px) and(max-width:1024px){
+    body{
+        background-color: rgb(255, 217, 0);
+    }
+}
+/*para movil el minimo debe ser 480px*/
+@media screen and (min-width:480px){
+    body{
+        background-color: blue;
+    }
+}
+/*para tablet el minimo debe ser 768px*/
+@media screen and(min-width:481px) and(max-width:768px){
+    body{
+        background-color: rgb(51, 128, 0);
+    }
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}

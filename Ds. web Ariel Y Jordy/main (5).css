@@ -1,0 +1,24 @@
+comment code
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+comment code
+
+.container {
+display: flex;
+}
+
+text {
+    font-size: 2rem;
+    font-family: 'roboto',sans-serif;
+     text-shadow: 2px,2px,4px white;
+     transition: all 0.5s ease-in-out; 
+}
+.container {
+    align-items: center;
+    color: black;
+}
+COMMENT CODE 
